@@ -22,8 +22,7 @@
 <br>
 
 
-<img alt="Languages known" src="https://github-readme-streak-stats.herokuapp.com?user=mubashir-angathil&theme=dark)](https://git.io/streak-stats"/>
-<br>
+<img alt="Languages known" src="https://github-readme-streak-stats.herokuapp.com?user=mubashir-angathil&theme=react&hide_border=true&bg_color=0D1117&date_format=M%20j%5B%2C%20Y%5D"/>
 <br>
 
 <h3>Softwares</h3>
