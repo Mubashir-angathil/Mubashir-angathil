@@ -1,10 +1,8 @@
 
-<h3 align="center">
-    Hello world!&nbsp;
-    <img src="https://github.com/midlajc/midlajc/blob/master/assets/Earth.gif" width="24px">    
-    &nbsp; I'am Mubashir Angathil!!
+<H1 align="center">
+     I'am Mubashir Angathil!!
     <img src="https://github.com/midlajc/midlajc/blob/master/assets/Hi.gif" width="29px">
-</h3>
+</H1>
 
 <p align="center"">
 <!--   <em>
@@ -14,37 +12,20 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/midlajc"><img width="32px" alt="Telegram" title="Telegram" src="https://cdn-icons-png.flaticon.com/512/906/906377.png"/></a>
+  <a href="https://instagram.com/mubzyr_ashraf"><img width="32px" alt="Instagram" title="Instagram" src="https://cdn-icons-png.flaticon.com/512/174/174855.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/_midlaj_c"><img width="32px" alt="Instagram" title="Instagram" src="https://cdn-icons-png.flaticon.com/512/174/174855.png"/></a>
+  <a href="https://www.linkedin.com/in/Mubashir Angathil/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://wa.me/+918137998446"><img width="32px" alt="Whatsapp" title="Whatsapp" src="https://cdn-icons-png.flaticon.com/512/220/220236.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.com/users/midlajc#2462"><img width="32px" alt="Discord" title="Discord" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670157.png?token=exp=1647276938~hmac=b27f483c023c2cab0e63eefd26f8b54b"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/midlajc/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/_midlaj_c"><img width="32px" alt="Twitter" title="Twitter" src="https://cdn-icons-png.flaticon.com/512/179/179342.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/midlajc"><img width="32px" alt="dev.to" title="dev.to" src="https://cdn-icons-png.flaticon.com/512/5969/5969113.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.buymeacoffee.com/midlajc"><img width="32px" alt="buymeacoffee" title="buymeacoffee" src="https://spiritedisle.ie/resources/uploads/2021/09/download1.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/midlajc/"><img width="32px" alt="github" title="github" src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:mail.midlajc@gmail.com"><img width="32px" alt="gamil" title="gamil" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504727.png?token=exp=1647279600~hmac=d282b0adace3958297a58781bd2c7f46"></a>
+  <a href="mailto:mubashirangathil5142@gmail.com"><img width="32px" alt="gamil" title="gamil" src="https://ovuncguvenersoy.com/en/gmail-new-logo-design/"></a>
 </p>
 
 <br>
 
-<a href="#"><img align="right" width="25%" height="25%" src="assets/coding.gif"/></a>
 
-<img alt="Midlaj's Top Languages" src="https://github-readme-streak-stats.herokuapp.com?user=midlajc&theme=react&hide_border=true&bg_color=0D1117&date_format=M%20j%5B%2C%20Y%5D" />
+<img alt="Languages known" src="https://github-readme-streak-stats.herokuapp.com?user=mubashir-angathil&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats" />
 
 <br>
 <br>
-
-<a href=""><img alt="Midlaj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=midlajc&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a><a href=""><img alt="Midlaj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=midlajc&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <h3>Softwares</h3>
 
@@ -64,26 +45,3 @@
 <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/maria-db.png"/>
 </p>
 
-<p>
-    <img src="https://activity-graph.herokuapp.com/graph?username=midlajc&theme=react-dark">
-</p>
-                                                                                           
-<!-- 
-![Midlaj C's github page views](https://komarev.com/ghpvc/?username=midlajc&color=brightgreen) -->
-
-<br>
-
-<!--
-**midlajc/midlajc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
