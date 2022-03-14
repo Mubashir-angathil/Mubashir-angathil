@@ -2,7 +2,7 @@
 <h3 align="center">
     Hello world!&nbsp;
     <img src="https://github.com/midlajc/midlajc/blob/master/assets/Earth.gif" width="24px">    
-    &nbsp;Welcome to MIDLAJ C's profile!
+    &nbsp; I'am Mubashir Angathil!!
     <img src="https://github.com/midlajc/midlajc/blob/master/assets/Hi.gif" width="29px">
 </h3>
 
