@@ -10,6 +10,8 @@
   </em> -->
   <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;Intern+at+Virtual+Pursuit;3rd+Year+BCA+undergraduate;keep+looking,+and+don't+settle&font=Fira%20Code&center=true&width=440&height=45&vCenter=true&size=22" alt="MERN Stack Developer">
 </p>
+<img alt="Languages known" src="https://github-readme-streak-stats.herokuapp.com?user=mubashir-angathil&theme=react&hide_border=true&bg_color=0D1117&date_format=M%20j%5B%2C%20Y%5D"/>
+<br>
 
 <p align="center">
   <a href="https://instagram.com/mubzyr_ashraf"><img width="32px" alt="Instagram" title="Instagram" src="https://cdn-icons-png.flaticon.com/512/174/174855.png"/></a>
@@ -22,8 +24,7 @@
 <br>
 
 
-<img alt="Languages known" src="https://github-readme-streak-stats.herokuapp.com?user=mubashir-angathil&theme=react&hide_border=true&bg_color=0D1117&date_format=M%20j%5B%2C%20Y%5D"/>
-<br>
+
 
 <h3>Softwares</h3>
 
