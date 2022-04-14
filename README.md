@@ -18,7 +18,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/Mubashir Angathil/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:mubashirangathil5142@gmail.com"><img width="32px" alt="gamil"  src="https://th.bing.com/th/id/OIP.2pNJnVhAyPRL6W1mpm_tvQHaHa?w=209&h=208&c=7&r=0&o=5&dpr=1.1&pid=1.7"></a>
+  <a href="mailto:mubashirangathil5142@gmail.com"><img width="32px" alt="gamil"  src="https://th.bing.com/th/id/OIP.7nyGAnm1XoYnBUtJr-wCcQHaHa?w=174&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7"></a>
 </p>
 
 <br>
