@@ -1,6 +1,6 @@
 <H1 align="center"> I'm Mubashir Angathil !!</H1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Koulen&color=1FEFF7&lines=...................+Full+Stack+developer+!!................;Graduated+with+a+degree+in+Bachelor+of+CA;Focused+on+nodejs%2C+reactjs%2C+mongodb%2C+sqllite;%2C+flutter+and+firebase" Alt="Full stack developer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Koulen&color=1FEFF7&lines=...................+Full+Stack+developer+!!+................;Graduated+with+a+degree+in+Bachelor+of+CA;Focused+on+nodejs%2C+reactjs%2C+mongodb%2C+sqllite;%2C+flutter+and+firebase" Alt="Full stack developer"/>
 <img alt="Languages known" src="https://github-readme-streak-stats.herokuapp.com?user=mubashir-angathil&theme=react&hide_border=true&bg_color=0D1117&date_format=M%20j%5B%2C%20Y%5D"/>
 </p>
 <br>
