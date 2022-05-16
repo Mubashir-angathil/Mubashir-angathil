@@ -1,4 +1,4 @@
-
+<center>
 <H1>
      I'm Mubashir Angathil!!
 </H1>
@@ -43,3 +43,4 @@
 <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/maria-db.png"/>
 </p>
 
+</center>
