@@ -1,5 +1,5 @@
 
-<H1 align="center">
+<H1>
      I'm Mubashir Angathil!!
 </H1>
 
