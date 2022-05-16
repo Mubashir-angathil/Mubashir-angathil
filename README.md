@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://www.instagram.com/mubzyr_ashraf/"><img width="32px" alt="Instagram" title="Instagram" src="https://cdn-icons-png.flaticon.com/512/174/174855.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/Mubashir Angathil/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"></a>
+  <a href="https://www.linkedin.com/in/mubashir-angathil-313391219"><img width="32px" alt="Linkedin" title="Linkedin" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:mubashirangathil5142@gmail.com"><img width="32px" alt="gamil"  src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"></a>
 </p>
