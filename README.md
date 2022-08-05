@@ -4,4 +4,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MubashirAngathil&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![](https://raw.githubusercontent.com/jasonlong/jasonlong/main/chat.svg?token=AAABPWFQB3UQVH67GAPKNRLAXLBQG)](https://twitter.com/jasonlong)
+[![](https://raw.githubusercontent.com/jasonlong/jasonlong/main/chat.svg?token=AAABPWFQB3UQVH67GAPKNRLAXLBQG)](https://twitter.com/mubazyr-ashraf)
