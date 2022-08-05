@@ -1,4 +1,5 @@
 <img src="https://github.com/MubashirAngathil/typing-intro/blob/main/chat.svg" width="458"  >
+# Profile under updating......
 <!-- 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=MubashirAngathil&count_private=true&show_icons=true&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=000000&stroke=045E61&ring=18CABF&fire=07DDD6&currStreakNum=FFFFFF&currStreakLabel=00DDD5&border=FFFFFF&dates=0CAB31" width="410" >
 
@@ -7,6 +8,5 @@
 
 <img  width='410' src="https://github-readme-stats.vercel.app/api/top-langs/?username=MubashirAngathil&layout=compact&theme=vision-friendly-dark" alt="Mr" />
 
-<img  width='1000' src="https://activity-graph.herokuapp.com/graph?username=MubashirAngathil&theme=react-dark" alt="Mr" /> !-->
+<img  width='1000' src="https://activity-graph.herokuapp.com/graph?username=MubashirAngathil&theme=react-dark" alt="Mr" /> --!>
 
-Profile under updating......
