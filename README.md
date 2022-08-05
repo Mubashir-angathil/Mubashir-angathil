@@ -4,8 +4,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=MubashirAngathil&count_private=true&show_icons=true&theme=chartreuse-dark&background=000000" width="410" align='right' >
 
-<img align="right" width='300' src="https://github-readme-stats.vercel.app/api/top-langs/?username=MubashirAngathil&layout=compact&theme=vision-friendly-dark" alt="Mr" />
+<img align="right" width='410' src="https://github-readme-stats.vercel.app/api/top-langs/?username=MubashirAngathil&layout=compact&theme=vision-friendly-dark" alt="Mr" />
 
-<img  width='900' src="https://activity-graph.herokuapp.com/graph?username=MubashirAngathil&theme=react-dark" alt="Mr" />
+<img  width='1000' src="https://activity-graph.herokuapp.com/graph?username=MubashirAngathil&theme=react-dark" alt="Mr" />
 
 
