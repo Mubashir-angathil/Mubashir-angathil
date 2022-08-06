@@ -3,18 +3,15 @@
 <h1 align='center'> Welcome to Mubashir's Profile</h1>
 <img src="https://github.com/MubashirAngathil/typing-intro/blob/main/chat.svg" width="500"  align='left'>
 
+To Find Out Me
 ------
 
 <p>
-  <img src='/Assets/linkedin.gif' width='24px' height='24px'/>
-  <img src='/Assets/instagram.gif' width='24px' height='24px'/>
-  <img src='/Assets/twitter.gif' width='24px' height='24px'/>
-  <img src='/Assets/gmail.png' width='24px' height='24px'/>
-  <img src='/Assets/dev.png' width='24px' height='24px'/>
-  <img src='/Assets/telegeram.png' width='24px' height='24px'/>
-  <img src='/Assets/github.png' width='24px' height='24px'/>
-  <img src='/Assets/discord.png' width='24px' height='24px'/>
-  <img src='/Assets/gitlab.png' width='24px' height='24px'/>
+  <img src='/Assets/animation/linkedin.gif' width='64px' height='64px'/>
+  <img src='/Assets/animation/instagram.gif' width='64px' height='64px'/>
+  <img src='/Assets/animation/twitter.gif' width='64px' height='64px'/>
+  <img src='/Assets/animation/gmail.gif' width='64px' height='64px'/>
+<!--   <img src='/Assets/button-type/linkedin-logo.png' width='64px' height='64px'/> -->
  </p>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=MubashirAngathil&count_private=true&show_icons=true&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=000000&stroke=045E61&ring=18CABF&fire=07DDD6&currStreakNum=FFFFFF&currStreakLabel=00DDD5&border=FFFFFF&dates=0CAB31" width="410" >
