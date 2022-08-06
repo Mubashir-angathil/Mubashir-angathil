@@ -11,6 +11,10 @@ To Find Out Me
   <img src='/Assets/animation/instagram.gif' width='64px' height='64px'/>
   <img src='/Assets/animation/twitter.gif' width='64px' height='64px'/>
   <img src='/Assets/animation/whatsapp (1).gif' width='64px' height='64px'/>
+  <img src='/Assets/3d/discord.png' width='50px' height='50px'/>
+  <img src='/Assets/3d/github-logo.png' width='64px' height='64px'/>
+  <img src='/Assets/3d/gitlab-logo.png' width='64px' height='64px'/>
+
 <!--   <img src='/Assets/button-type/linkedin-logo.png' width='64px' height='64px'/> -->
  </p>
 
