@@ -3,8 +3,8 @@
 <h1 align='center'> Welcome to Mubashir's Profile</h1>
 <img src="https://github.com/MubashirAngathil/typing-intro/blob/main/chat.svg" width="500"  align='left'>
 
-To Find Out Me
-------
+<h4>To Find Out Me</h4>
+
 
 <p align='right'>
   <img src='/Assets/animation/linkedin.gif' width='64px' height='64px'/>
