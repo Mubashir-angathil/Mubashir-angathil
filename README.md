@@ -13,6 +13,7 @@
 
 # Softwares
 
+<<<<<<< HEAD
 <a target="_blank" href="https://icons8.com/icon/8gfeOoqrHqJU/figma">Figma</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 
 <img src='./Assets/coding.gif'/>
@@ -20,3 +21,6 @@
 <div class="tenor-gif-embed" data-postid="23414225" data-share-method="host" data-aspect-ratio="1.20301" data-width="100%"><a href="https://tenor.com/view/developer-gif-23414225">Developer GIF</a>from <a href="https://tenor.com/search/developer-gifs">Developer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <div class="tenor-gif-embed" data-postid="24712790" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/software-software-development-gif-24712790">Software Software Development GIF</a>from <a href="https://tenor.com/search/software-gifs">Software GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+=======
+<img src='./Assets/coding.gif' alt='coding....'/>
+>>>>>>> ca2f4a71b2aa14d0e2a9fd9deaad96e0c9c1cb58
