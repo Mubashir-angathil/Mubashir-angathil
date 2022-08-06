@@ -3,7 +3,7 @@
 <h1 align='center'> Welcome to Mubashir's Profile</h1>
 <img src="https://github.com/MubashirAngathil/typing-intro/blob/main/chat.svg" width="500"  align='left'>
 
-<h3>To Find Out Me</h3>
+<h2>To Find Out Me</h2>
 
 
 <p align='right'>
