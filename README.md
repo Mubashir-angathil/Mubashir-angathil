@@ -1,4 +1,8 @@
-<img src="https://github.com/MubashirAngathil/typing-intro/blob/main/chat.svg" width="458"  >
+<img src="https://github.com/MubashirAngathil/typing-intro/blob/main/chat.svg" width="450"  align='left'>
+<img src='./Assets/coding3.gif' alt='coding....' width='400' align='right'/>
+
+
+
 <hr>
 <h1>Profile under updating......</h1>
 
@@ -13,7 +17,4 @@
 
 # Softwares
 
-<a target="_blank" href="https://icons8.com/icon/8gfeOoqrHqJU/figma">Figma</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
-
-<img src='./Assets/coding2.gif'/>
 
