@@ -11,9 +11,17 @@ To Find Out Me
   <img src='/Assets/animation/instagram.gif' width='64px' height='64px'/>
   <img src='/Assets/animation/twitter.gif' width='64px' height='64px'/>
   <img src='/Assets/animation/whatsapp (1).gif' width='64px' height='64px'/>
+  
+  <img src='/Assets/normal/icons8-telegram-app-48.png' width='48px' height='48px'/>
+  <img src='/Assets/normal/icons8-gmail-48.png' width='48px' height='48px'/>
+  <img src='/Assets/normal/icons8-github-64.png' width='48px' height='48px'/>
+  <img src='/Assets/normal/icons8-gitlab-48.png' width='48px' height='48px'/>
+  <img src='/Assets/normal/icons8-dev-64.png' width='48px' height='48px'/>
   <img src='/Assets/3d/discord.png' width='64px' height='64px'/>
   <img src='/Assets/3d/github-logo.png' width='64px' height='64px'/>
   <img src='/Assets/3d/gitlab-logo.png' width='64px' height='64px'/>
+  <img src='/Assets/button-type/telegram.png' width='64px' height='64px'/>
+  <img src='/Assets/button-type/.png' width='64px' height='64px'/>
 
 <!--   <img src='/Assets/button-type/linkedin-logo.png' width='64px' height='64px'/> -->
  </p>
