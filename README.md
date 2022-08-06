@@ -23,8 +23,36 @@
 <img width='1000' height='160'  src="https://github-readme-streak-stats.herokuapp.com?user=MubashirAngathil&count_private=true&show_icons=true&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=000000&stroke=045E61&ring=18CABF&fire=07DDD6&currStreakNum=FFFFFF&currStreakLabel=00DDD5&border=FFFFF&dates=0CAB31&hide_border=true" >
 <img align='right' width='360' src="https://github-readme-stats.vercel.app/api/top-langs/?username=MubashirAngathil&count_private=true&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Mr" />
 <img width='430' src="https://github-readme-stats.vercel.app/api?username=MubashirAngathil&count_private=true&show_icons=true&theme=chartreuse-dark&background=000000&hide_border=true">
-<img  src="https://activity-graph.herokuapp.com/graph?username=MubashirAngathil&theme=react-dark&hide_border=true" alt="Mr" /> 
+
 
 <!--Section 4 -->
-<h2>Languages</h2>
-  <img src='/Assets/3d/javascript.png' width='50px' height='50px'/>
+<h2 align='center'>Languages</h2>
+<p align='center'>
+  <img src='/Assets/3d/nodejs.png' width='42px' height='42px'/>
+  <img src='/Assets/3d/javascript.png' width='36px' height='36px'/>
+  <img src='/Assets/normal/icons8-typescript-48.png' width='42px' height='42px'/>
+  <img src='/Assets/normal/icons8-react-native-48.png' width='42px' height='42px'/>
+  <img src='/Assets/normal/icons8-xml-64.png' width='42px' height='42px'/>
+  <img src='/Assets/normal/icons8-html-5-48.png' width='42px' height='42px'/>
+  <img src='/Assets/normal/icons8-css3-48.png' width='42px' height='42px'/>
+  <img src='/Assets/normal/icons8-dart-48.png' width='42px' height='42px'/>
+  <img src='/Assets/normal/icons8-java-64.png' width='42px' height='42px'/>
+  <img src='/Assets/normal/icons8-c-programming-48.png' width='42px' height='42px'/>
+</p>
+
+<!--Section 5 -->
+<h2 align='center'>Softwares</h2>
+<p align='center'>
+  <img src='/Assets/3d/nodejs.png' width='42px' height='42px'/>
+  <img src='/Assets/3d/javascript.png' width='36px' height='36px'/>
+  <img src='/Assets/normal/icons8-typescript-48.png' width='42px' height='42px'/>
+  <img src='/Assets/normal/icons8-react-native-48.png' width='42px' height='42px'/>
+  <img src='/Assets/normal/icons8-xml-64.png' width='42px' height='42px'/>
+  <img src='/Assets/normal/icons8-html-5-48.png' width='42px' height='42px'/>
+  <img src='/Assets/normal/icons8-css3-48.png' width='42px' height='42px'/>
+  <img src='/Assets/normal/icons8-dart-48.png' width='42px' height='42px'/>
+  <img src='/Assets/normal/icons8-java-64.png' width='42px' height='42px'/>
+  <img src='/Assets/normal/icons8-c-programming-48.png' width='42px' height='42px'/>
+</p>
+<!--Section 6 -->
+<img  src="https://activity-graph.herokuapp.com/graph?username=MubashirAngathil&theme=react-dark&hide_border=true" alt="Mr" /> 
