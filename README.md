@@ -18,7 +18,7 @@ To Find Out Me
   <img src='/Assets/normal/icons8-telegram-app-48.png' width='50px' height='50px'/>
  </p>
  
-<h2 align='left'>> Synopsis of Activites</h2>
+<h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Synopsis of Activites</h2>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=MubashirAngathil&count_private=true&show_icons=true&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=000000&stroke=045E61&ring=18CABF&fire=07DDD6&currStreakNum=FFFFFF&currStreakLabel=00DDD5&border=FFFFFF&dates=0CAB31" width="410" >
 
