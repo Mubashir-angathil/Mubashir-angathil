@@ -10,7 +10,7 @@ To Find Out Me
   <img src='/Assets/animation/linkedin.gif' width='64px' height='64px'/>
   <img src='/Assets/animation/instagram.gif' width='64px' height='64px'/>
   <img src='/Assets/animation/twitter.gif' width='64px' height='64px'/>
-  <img src='/Assets/animation/gmail.gif' width='64px' height='64px'/>
+  <img src='/Assets/animation/whatsapp (1).gif' width='64px' height='64px'/>
 <!--   <img src='/Assets/button-type/linkedin-logo.png' width='64px' height='64px'/> -->
  </p>
 
