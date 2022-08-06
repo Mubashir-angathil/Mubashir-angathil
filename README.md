@@ -24,8 +24,8 @@ To Find Out Me
 
 <img width='400' src="https://github-readme-stats.vercel.app/api?username=MubashirAngathil&count_private=true&show_icons=true&theme=chartreuse-dark&background=000000" >
 
-<img width='1000' height='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=MubashirAngathil&count_private=true&layout=compact&theme=vision-friendly-dark" alt="Mr" />
-<h1>Profile under updating......</h1>
-<img  src="https://activity-graph.herokuapp.com/graph?username=MubashirAngathil&theme=react-dark" alt="Mr" /> 
+<img width='300' height='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=MubashirAngathil&count_private=true&layout=compact&theme=vision-friendly-dark" alt="Mr" />
+
+<img width='700' src="https://activity-graph.herokuapp.com/graph?username=MubashirAngathil&theme=react-dark" alt="Mr" /> 
 
 # Softwares
