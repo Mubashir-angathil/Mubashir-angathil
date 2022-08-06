@@ -2,6 +2,9 @@
 <img src='./Assets/coding3.gif' alt='coding....' width='300' align='right' />
 <h1 align='center'> Welcome to Mubashir's Profile</h1>
 <img src="https://github.com/MubashirAngathil/typing-intro/blob/main/chat.svg" width="500"  align='left'>
+
+------
+
 <p>
   <img src='/Assets/linkedin.gif' width='24px' height='24px'/>
   <img src='/Assets/instagram.gif' width='24px' height='24px'/>
