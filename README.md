@@ -1,6 +1,3 @@
-
-
-<div>
 <!--Section 1  -->
 <img src='./Assets/hacker-thinking-about-code.gif' alt='coding....' width='300' align='right' />
 <!-- <img src='./Assets/happy-hacker.gif' alt='coding....' width='400' align='right' /> -->
@@ -53,6 +50,24 @@
   <img src='/Assets/normal/icons8-github-48.png' width='42px' height='42px'/>
 </p>
 <!--Section 6 -->
-</div>
+
+<!--Section 7 -->
+<h2 align='center'>Database</h2>
+<p align='center'>
+  <img src='/Assets/normal/icons8-visual-studio-code-2019-48.png' width='36px' height='36px'/>
+  <img src='/Assets/normal/icons8-git-48.png' width='42px' height='42px'/>
+  <img src='/Assets/normal/icons8-android-studio-48.png' width='42px' height='42px'/>
+  <img src='/Assets/normal/icons8-console-48.png' width='42px' height='42px'/>
+  <img src='/Assets/normal/icons8-github-48.png' width='42px' height='42px'/>
+</p>
+<!--Section 8 -->
+<h2 align='center'>Tools&Others</h2>
+<p align='center'>
+  <img src='/Assets/normal/icons8-visual-studio-code-2019-48.png' width='36px' height='36px'/>
+  <img src='/Assets/normal/icons8-git-48.png' width='42px' height='42px'/>
+  <img src='/Assets/normal/icons8-android-studio-48.png' width='42px' height='42px'/>
+  <img src='/Assets/normal/icons8-console-48.png' width='42px' height='42px'/>
+  <img src='/Assets/normal/icons8-github-48.png' width='42px' height='42px'/>
+</p>
 
 <img  src="https://activity-graph.herokuapp.com/graph?username=MubashirAngathil&theme=react-dark&hide_border=true" alt="Mr" /> 
