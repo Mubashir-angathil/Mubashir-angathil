@@ -24,7 +24,7 @@ To Find Out Me
 
 <img align='right' width='400'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MubashirAngathil&count_private=true&layout=compact&theme=vision-friendly-dark" alt="Mr" />
 
-<img width='480' src="https://github-readme-stats.vercel.app/api?username=MubashirAngathil&count_private=true&show_icons=true&theme=chartreuse-dark&background=000000" >
+<img width='450' src="https://github-readme-stats.vercel.app/api?username=MubashirAngathil&count_private=true&show_icons=true&theme=chartreuse-dark&background=000000" >
 
 <img  src="https://activity-graph.herokuapp.com/graph?username=MubashirAngathil&theme=react-dark" alt="Mr" /> 
 
