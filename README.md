@@ -43,16 +43,11 @@
 <!--Section 5 -->
 <h2 align='center'>Softwares</h2>
 <p align='center'>
-  <img src='/Assets/3d/nodejs.png' width='42px' height='42px'/>
-  <img src='/Assets/3d/javascript.png' width='36px' height='36px'/>
-  <img src='/Assets/normal/icons8-typescript-48.png' width='42px' height='42px'/>
-  <img src='/Assets/normal/icons8-react-native-48.png' width='42px' height='42px'/>
-  <img src='/Assets/normal/icons8-xml-64.png' width='42px' height='42px'/>
-  <img src='/Assets/normal/icons8-html-5-48.png' width='42px' height='42px'/>
-  <img src='/Assets/normal/icons8-css3-48.png' width='42px' height='42px'/>
-  <img src='/Assets/normal/icons8-dart-48.png' width='42px' height='42px'/>
-  <img src='/Assets/normal/icons8-java-64.png' width='42px' height='42px'/>
-  <img src='/Assets/normal/icons8-c-programming-48.png' width='42px' height='42px'/>
+  <img src='/Assets/normal/icons8-visual-studio-code-2019-48.png' width='36px' height='36px'/>
+  <img src='/Assets/normal/icons8-git-48.png' width='42px' height='42px'/>
+  <img src='/Assets/normal/icons8-android-studio-48.png' width='42px' height='42px'/>
+  <img src='/Assets/normal/icons8-console-48.png' width='42px' height='42px'/>
+  <img src='/Assets/normal/icons8-github-48.png' width='42px' height='42px'/>
 </p>
 <!--Section 6 -->
 <img  src="https://activity-graph.herokuapp.com/graph?username=MubashirAngathil&theme=react-dark&hide_border=true" alt="Mr" /> 
