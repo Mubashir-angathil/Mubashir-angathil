@@ -26,5 +26,3 @@
 <img  width='1000' src="https://activity-graph.herokuapp.com/graph?username=MubashirAngathil&theme=react-dark" alt="Mr" /> 
 
 # Softwares
-
-
