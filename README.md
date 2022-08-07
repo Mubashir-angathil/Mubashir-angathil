@@ -56,16 +56,16 @@
 <h2 align='center'>Database</h2>
 <p align='center'>
   <img src='/Assets/normal/icons8-mongodb-48.png' width='42px' height='42px'/>
-  <img src='/Assets/normal/icons8-firebase-48.png' width='36px' height='36px'/>
+  <img src='/Assets/normal/icons8-firebase-48.png' width='42px' height='42px'/>
   <img src='/Assets/normal/icons8-mysql-logo-48.png' width='42px' height='42px'/>
   <img src='/Assets/3d/icons8-microsoft-sql-server-96.png' width='42px' height='42px'/>
 </p>
 <!--Section 8 -->
 <h2 align='center'>Tools&Others</h2>
 <p align='center'>
-  <img src='/Assets/normal/postman.png' width='36px' height='36px'/>
+  <img src='/Assets/normal/postman.png' width='42px' height='42px'/>
   <img src='/Assets/normal/icons8-handlebar-mustache-60.png' width='42px' height='42px'/>
-  <img src='/Assets/normal/flutter.png' width='42px' height='42px'/>
+  <img src='/Assets/normal/flutter.png' width='40px' height='40px'/>
 </p>
 
 
