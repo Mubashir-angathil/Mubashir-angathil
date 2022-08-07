@@ -11,7 +11,7 @@
   <a href='https://www.instagram.com/mubzyr_ashraf/' target='_blank'><img src='/Assets/animation/instagram.gif' width='64px' height='64px'/></a>
   <a href='https://twitter.com/mubzyr_ashraf' target='_blank'><img src='/Assets/animation/twitter.gif' width='64px' height='64px'/></a>
   <img src='/Assets/animation/whatsapp (1).gif' width='64px' height='64px'/>
-  <a href='https://github.com/MubashirAngathil'><img src='/Assets/normal/icons8-github-64.png' width='50px' height='50px'/></a>
+  <a href='https://github.com/MubashirAngathil' target='-blank'><img src='/Assets/normal/icons8-github-64.png' width='50px' height='50px'/></a>
   <img src='/Assets/normal/icons8-gitlab-48.png' width='50px' height='50=px'/>
   <img src='/Assets/3d/dev.png' width='50px' height='50px'/>
   <img src='/Assets/normal/icons8-gmail-48.png' width='50px' height='50px'/>
