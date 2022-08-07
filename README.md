@@ -63,11 +63,9 @@
 <!--Section 8 -->
 <h2 align='center'>Tools&Others</h2>
 <p align='center'>
-  <img src='/Assets/normal/icons8-visual-studio-code-2019-48.png' width='36px' height='36px'/>
-  <img src='/Assets/normal/icons8-git-48.png' width='42px' height='42px'/>
-  <img src='/Assets/normal/icons8-android-studio-48.png' width='42px' height='42px'/>
-  <img src='/Assets/normal/icons8-console-48.png' width='42px' height='42px'/>
-  <img src='/Assets/normal/icons8-github-48.png' width='42px' height='42px'/>
+  <img src='/Assets/normal/postman.png' width='36px' height='36px'/>
+  <img src='/Assets/normal/icons8-handlebar-mustache-60.png' width='42px' height='42px'/>
+  <img src='/Assets/normal/flutter.png' width='42px' height='42px'/>
 </p>
 
 
