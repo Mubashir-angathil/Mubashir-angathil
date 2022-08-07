@@ -7,7 +7,7 @@
 <!--Section 2  -->
 <h2 align='center'>To Find Out Me</h2>
 <p align='right'>
-  <img src='/Assets/animation/linkedin.gif' width='64px' height='64px'/>
+  <a href='https://www.linkedin.com/in/mubashir-angathil/'><img src='/Assets/animation/linkedin.gif' width='64px' height='64px'/></a>
   <img src='/Assets/animation/instagram.gif' width='64px' height='64px'/>
   <img src='/Assets/animation/twitter.gif' width='64px' height='64px'/>
   <img src='/Assets/animation/whatsapp (1).gif' width='64px' height='64px'/>
