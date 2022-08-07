@@ -53,7 +53,7 @@
 <!--Section 6 -->
 
 <!--Section 7 -->
-<h2 align='center'>Database</h2>
+<h2 align='center'>Databases</h2>
 <p align='center'>
   <img src='/Assets/normal/icons8-mongodb-48.png' width='42px' height='42px'/>
   <img src='/Assets/normal/icons8-firebase-48.png' width='42px' height='42px'/>
