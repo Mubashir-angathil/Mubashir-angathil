@@ -7,15 +7,15 @@
 <!--Section 2  -->
 <h2 align='center'>To Find Out Me</h2>
 <p align='right'>
-  <a href='https://www.linkedin.com/in/mubashir-angathil/' target='_blank'><img src='/Assets/animation/linkedin.gif' width='64px' height='64px'/></a>
+  <a href='https://www.linkedin.com/in/mubashir-angathil/' target="_blank"><img src='/Assets/animation/linkedin.gif' width='64px' height='64px'/></a>
   <a href='https://www.instagram.com/mubzyr_ashraf/' target='_blank'><img src='/Assets/animation/instagram.gif' width='64px' height='64px'/></a>
   <a href='https://twitter.com/mubzyr_ashraf' target='_blank'><img src='/Assets/animation/twitter.gif' width='64px' height='64px'/></a>
   <img src='/Assets/animation/whatsapp (1).gif' width='64px' height='64px'/>
-  <a href='https://github.com/MubashirAngathil' target='-blank'><img src='/Assets/normal/icons8-github-64.png' width='50px' height='50px'/></a>
-  <img src='/Assets/normal/icons8-gitlab-48.png' width='50px' height='50=px'/>
-  <img src='/Assets/3d/dev.png' width='50px' height='50px'/>
-  <img src='/Assets/normal/icons8-gmail-48.png' width='50px' height='50px'/>
-  <img src='/Assets/normal/icons8-telegram-app-48.png' width='50px' height='50px'/>
+  <a href='https://github.com/MubashirAngathil' target='_blank'><img src='/Assets/normal/icons8-github-64.png' width='50px' height='50px'/></a>
+  <a href='https://gitlab.com/MubashirAngathil' target='_blank'><img src='/Assets/normal/icons8-gitlab-48.png' width='50px' height='50=px'/></a>
+  <a href='https://dev.to/mubashirangathil' target='_blank'><img src='/Assets/3d/dev.png' width='50px' height='50px'/></a>
+  <a href='mailto: mubashirangathil5142@gmail.com'> <img src='/Assets/normal/icons8-gmail-48.png' width='50px' height='50px'/></a>
+  <a href='https://web.telegram.org/k/'><img src='/Assets/normal/icons8-telegram-app-48.png' width='50px' height='50px'/></a>
  </p>
 
 <!-- section 3  -->
