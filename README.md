@@ -13,7 +13,7 @@
   <img src='/Assets/animation/whatsapp (1).gif' width='64px' height='64px'/>
   <img src='/Assets/normal/icons8-github-64.png' width='50px' height='50px'/>
   <img src='/Assets/normal/icons8-gitlab-48.png' width='50px' height='50=px'/>
-  <img src='/Assets/normal/icons8-dev-64.png' width='50px' height='50px'/>
+  <img src='/Assets/3d/dev.png' width='50px' height='50px'/>
   <img src='/Assets/normal/icons8-gmail-48.png' width='50px' height='50px'/>
   <img src='/Assets/normal/icons8-telegram-app-48.png' width='50px' height='50px'/>
  </p>
@@ -33,10 +33,10 @@
   <img src='/Assets/3d/javascript.png' width='36px' height='36px'/>
   <img src='/Assets/normal/icons8-typescript-48.png' width='42px' height='42px'/>
   <img src='/Assets/normal/icons8-react-native-48.png' width='42px' height='42px'/>
-  <img src='/Assets/normal/icons8-xml-64.png' width='42px' height='42px'/>
   <img src='/Assets/normal/icons8-html-5-48.png' width='42px' height='42px'/>
   <img src='/Assets/normal/icons8-css3-48.png' width='42px' height='42px'/>
   <img src='/Assets/normal/icons8-dart-48.png' width='42px' height='42px'/>
+  <img src='/Assets/normal/icons8-xml-64.png' width='42px' height='42px'/>
   <img src='/Assets/normal/icons8-java-64.png' width='42px' height='42px'/>
   <img src='/Assets/normal/icons8-c-programming-48.png' width='42px' height='42px'/>
 </p>
@@ -55,11 +55,10 @@
 <!--Section 7 -->
 <h2 align='center'>Database</h2>
 <p align='center'>
-  <img src='/Assets/normal/icons8-visual-studio-code-2019-48.png' width='36px' height='36px'/>
-  <img src='/Assets/normal/icons8-git-48.png' width='42px' height='42px'/>
-  <img src='/Assets/normal/icons8-android-studio-48.png' width='42px' height='42px'/>
-  <img src='/Assets/normal/icons8-console-48.png' width='42px' height='42px'/>
-  <img src='/Assets/normal/icons8-github-48.png' width='42px' height='42px'/>
+  <img src='/Assets/normal/icons8-mongodb-48.png' width='42px' height='42px'/>
+  <img src='/Assets/normal/icons8-firebase-48.png' width='36px' height='36px'/>
+  <img src='/Assets/normal/icons8-mysql-logo-48.png' width='42px' height='42px'/>
+  <img src='/Assets/3d/icons8-microsoft-sql-server-96.png' width='42px' height='42px'/>
 </p>
 <!--Section 8 -->
 <h2 align='center'>Tools&Others</h2>
