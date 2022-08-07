@@ -21,8 +21,13 @@
 <!-- section 3  -->
 <h2>Synopsis of Activites</h2>
 <img width='1000' height='160'  src="https://github-readme-streak-stats.herokuapp.com?user=MubashirAngathil&count_private=true&show_icons=true&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=000000&stroke=045E61&ring=18CABF&fire=07DDD6&currStreakNum=FFFFFF&currStreakLabel=00DDD5&border=FFFFF&dates=0CAB31&hide_border=true" >
+<<<<<<< HEAD
 <img align='right' width='360' src="https://github-readme-stats.vercel.app/api/top-langs/?username=MubashirAngathil&count_private=true&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Mr" />
 <img width='430' src="https://github-readme-stats.vercel.app/api?username=MubashirAngathil&count_private=true&show_icons=true&theme=chartreuse-dark&background=000000&hide_border=true">
+=======
+<img align='right' width='360' src="https://github-readme-stats.vercel.app/api/top-langs/?username=MubashirAngathil&layout=compact&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="Mr" />
+<img width='430' src="https://github-readme-stats.vercel.app/api?username=MubashirAngathil&show_icons=true&theme=chartreuse-dark&background=000000&hide_border=true&count_private=true">
+>>>>>>> d41ee86118dea87108419e60e6b09a488f951d1d
 
 
 <!--Section 4 -->
@@ -70,4 +75,9 @@
   <img src='/Assets/normal/icons8-github-48.png' width='42px' height='42px'/>
 </p>
 
+
 <img  src="https://activity-graph.herokuapp.com/graph?username=MubashirAngathil&theme=react-dark&hide_border=true" alt="Mr" /> 
+
+<img  src="https://activity-graph.herokuapp.com/graph?username=MubashirAngathil&count_private=true&theme=react-dark&hide_border=true" alt="Mr" /> 
+
+# Profile under updating..................
