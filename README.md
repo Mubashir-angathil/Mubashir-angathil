@@ -66,7 +66,7 @@
   <img src='/Assets/normal/postman.png' width='42px' height='42px'/>
   <img src='/Assets/normal/icons8-handlebar-mustache-60.png' width='42px' height='42px'/>
   <img src='/Assets/normal/flutter.png' width='40px' height='40px'/>
-  <img src='/Assets/3d/android-logo.png' width='40px' height='40px'/>
+  <img src='/Assets/3d/android-logo.png' width='56px' height='46px'/>
 </p>
 
 
