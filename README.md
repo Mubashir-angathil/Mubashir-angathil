@@ -72,4 +72,6 @@
 
 <img  src="https://activity-graph.herokuapp.com/graph?username=MubashirAngathil&theme=react-dark&hide_border=true" alt="Mr" /> 
 
+Profile views
+![](https://komarev.com/ghpvc/?username=MubashirAngathil)
 <!-- # Profile under updating.................. -->
