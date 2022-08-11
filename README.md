@@ -6,6 +6,7 @@
 
 <!--Section 2  -->
 <h2 align='center'>To Find Out Me</h2>
+<img src='https://komarev.com/ghpvc/?username=MubashirAngathil' />
 <p align='right'>
   <a href='https://www.linkedin.com/in/mubashir-angathil/' target="_blank"><img src='/Assets/animation/linkedin.gif' width='64px' height='64px'/></a>
   <a href='https://www.instagram.com/mubzyr_ashraf/' target='_blank'><img src='/Assets/animation/instagram.gif' width='64px' height='64px'/></a>
@@ -72,6 +73,4 @@
 
 <img  src="https://activity-graph.herokuapp.com/graph?username=MubashirAngathil&theme=react-dark&hide_border=true" alt="Mr" /> 
 
-Profile views
-![](https://komarev.com/ghpvc/?username=MubashirAngathil)
 <!-- # Profile under updating.................. -->
