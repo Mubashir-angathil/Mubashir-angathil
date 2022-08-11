@@ -3,9 +3,9 @@
 <!-- <img src='./Assets/happy-hacker.gif' alt='coding....' width='400' align='right' /> -->
 <h1 align='center'> Welcome to Mubashir's Profile</h1>
 <img src="https://github.com/MubashirAngathil/typing-intro/blob/main/chat.svg" width="500"  align='left'>
+<img src='https://komarev.com/ghpvc/?username=MubashirAngathil' />
 
 <!--Section 2  -->
-<img src='https://komarev.com/ghpvc/?username=MubashirAngathil' />
 <h2 align='center'>To Find Out Me</h2>
 <p align='right'>
   <a href='https://www.linkedin.com/in/mubashir-angathil/' target="_blank"><img src='/Assets/animation/linkedin.gif' width='64px' height='64px'/></a>
