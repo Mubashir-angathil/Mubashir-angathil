@@ -9,7 +9,7 @@
 <h2 align='center'>To Find Out Me</h2>
 <p align='right'>
   <a href='https://www.linkedin.com/in/mubashir-angathil/' target="_blank"><img src='/Assets/animation/linkedin.gif' width='64px' height='64px'/></a>
-  <a href='https://www.instagram.com/mubzyr_ashraf/' target='_blank'><img src='/Assets/animation/instagram.gif' width='64px' height='64px'/></a>
+  <a href='https://www.instagram.com/___a___m__r___/' target='_blank'><img src='/Assets/animation/instagram.gif' width='64px' height='64px'/></a>
   <a href='https://twitter.com/mubzyr_ashraf' target='_blank'><img src='/Assets/animation/twitter.gif' width='64px' height='64px'/></a>
   <img src='/Assets/animation/whatsapp (1).gif' width='64px' height='64px'/>
   <a href='https://github.com/MubashirAngathil' target='_blank'><img src='/Assets/normal/icons8-github-64.png' width='50px' height='50px'/></a>
