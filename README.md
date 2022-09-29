@@ -2,11 +2,11 @@
 <img src='./Assets/hacker-thinking-about-code.gif' alt='coding....' width='300' align='right' alt='coding...'/>
 <!-- <img src='./Assets/happy-hacker.gif' alt='coding....' width='400' align='right' alt='Hacker Image'/> -->
 <h1 align='center'> Welcome to Mubashir's Profile</h1>
-<img src="https://github.com/MubashirAngathil/typing-intro/blob/main/chat.svg" width="500"  align='left' alt='chat svg'>
-<img src='https://komarev.com/ghpvc/?username=MubashirAngathil'  align='right' alt='user name'/>
+<!-<img src="https://github.com/MubashirAngathil/typing-intro/blob/main/chat.svg" width="500"  align='left' alt='chat svg'> 
+<!-- <img src='https://komarev.com/ghpvc/?username=MubashirAngathil'  align='right' alt='user name'/>
 
 <!--Section 2  -->
-<h2 align='center'>To Find Out Me</h2>
+<!--<h2 align='center'>To Find Out Me</h2>
 <p align='right'>
   <a href='https://www.linkedin.com/in/mubashir-angathil/' target="_blank"><img src='/Assets/animation/linkedin.gif' width='64px' height='64px'/></a>
   <a href='https://www.instagram.com/___a___m__r___/' target='_blank'><img src='/Assets/animation/instagram.gif' width='64px' height='64px'/></a>
@@ -17,10 +17,10 @@
   <a href='https://dev.to/mubashirangathil' target='_blank'><img src='/Assets/3d/dev.png' width='50px' height='50px'/></a>
   <a href='mailto: mubashirangathil5142@gmail.com'> <img src='/Assets/normal/icons8-gmail-48.png' width='50px' height='50px'/></a>
   <a href='https://t.me/mubashir_angathil'><img src='/Assets/normal/icons8-telegram-app-48.png' width='50px' height='50px'/></a>
- </p>
+ </p> -->
 
 <!-- section 3  -->
-<h2>Synopsis of Activites</h2>
+<!-- <h2>Synopsis of Activites</h2> -->
 <img width='1000' height='160'  src="https://github-readme-streak-stats.herokuapp.com?user=MubashirAngathil&count_private=true&show_icons=true&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=000000&stroke=045E61&ring=18CABF&fire=07DDD6&currStreakNum=FFFFFF&currStreakLabel=00DDD5&border=FFFFF&dates=0CAB31&hide_border=true" >
 
 <img align='right' width='360' alt='top used languages' src="https://github-readme-stats.vercel.app/api/top-langs/?username=MubashirAngathil&langs_count=8&count_private=true&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Mr" />
