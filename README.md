@@ -21,7 +21,7 @@
 
 <!-- section 3  -->
  <h2>Synopsis of Activites</h2> 
-<img width='1000' height='160'  src="https://github-readme-streak-stats.herokuapp.com?user=MubashirAngathil&count_private=true&show_icons=true&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=000000&stroke=045E61&ring=18CABF&fire=07DDD6&currStreakNum=FFFFFF&currStreakLabel=00DDD5&border=FFFFF&dates=0CAB31&hide_border=true" >
+<img width='1000' height='160'  src="https://github-readme-streak-stats.herokuapp.com?user=MubashirAngathil&count_private=true&show_icons=true&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=000000&stroke=045E61&ring=18CABF&fire=07DDD6&currStreakNum=FFFFFF&currStreakLabel=00DDD5&border=FFFFF&dates=0CAB31&hide_border=true" alt='streek status'>
 
 <img align='right' width='360' alt='top used languages' src="https://github-readme-stats.vercel.app/api/top-langs/?username=MubashirAngathil&langs_count=8&count_private=true&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Mr" />
 
