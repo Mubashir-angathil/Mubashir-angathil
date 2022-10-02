@@ -16,7 +16,7 @@
   <a href='https://gitlab.com/MubashirAngathil' target='_blank'><img src='/Assets/normal/icons8-gitlab-48.png' width='50px' height='50=px'/></a>
   <a href='https://dev.to/mubashirangathil' target='_blank'><img src='/Assets/3d/dev.png' width='50px' height='50px'/></a>
   <a href='mailto: mubashirangathil5142@gmail.com'> <img src='/Assets/normal/icons8-gmail-48.png' width='50px' height='50px'/></a>
-  <a href='https://t.me/mubashir_angathil'><img src='/Assets/normal/icons8-telegram-app-48.png' width='50px' height='50px'/></a>
+  <a href='https://t.me/mubashir_angathil'><img src='/Assets/normal/icons8-telegram-app-48.png' width='50px' height='50px' alt='telegram'/></a>
  </p> 
 
 <!-- section 3  -->
