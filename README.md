@@ -12,7 +12,7 @@
   <a href='https://www.instagram.com/___a___m__r___/' target='_blank'><img src='/Assets/animation/instagram.gif' width='64px' height='64px' alt='instagram'/></a>
   <a href='https://twitter.com/mubzyr_ashraf' target='_blank'><img src='/Assets/animation/twitter.gif' width='64px' height='64px' alt='twitter'/></a>
   <img src='/Assets/animation/whatsapp (1).gif' width='64px' height='64px' alt='whatsapp'/>
-  <a href='https://github.com/MubashirAngathil' target='_blank'><img src='/Assets/normal/icons8-github-64.png' width='50px' height='50px'/></a>
+  <a href='https://github.com/MubashirAngathil' target='_blank'><img src='/Assets/normal/icons8-github-64.png' width='50px' height='50px' alt='github pic'/></a>
   <a href='https://gitlab.com/MubashirAngathil' target='_blank'><img src='/Assets/normal/icons8-gitlab-48.png' width='50px' height='50=px'/></a>
   <a href='https://dev.to/mubashirangathil' target='_blank'><img src='/Assets/3d/dev.png' width='50px' height='50px'/></a>
   <a href='mailto: mubashirangathil5142@gmail.com'> <img src='/Assets/normal/icons8-gmail-48.png' width='50px' height='50px' alt='gmail'/></a>
