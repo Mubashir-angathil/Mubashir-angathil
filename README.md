@@ -30,7 +30,7 @@
 <!--Section 4 -->
 <h2 align='center'>Languages</h2>
 <p align='center'>
-  <img src='/Assets/3d/nodejs.png' width='42px' height='42px'/>
+  <img src='/Assets/3d/nodejs.png' width='42px' height='42px' alt='nodejs'/>
   <img src='/Assets/3d/javascript.png' width='36px' height='36px'/>
   <img src='/Assets/normal/icons8-typescript-48.png' width='42px' height='42px'/>
   <img src='/Assets/normal/icons8-react-native-48.png' width='42px' height='42px'/>
