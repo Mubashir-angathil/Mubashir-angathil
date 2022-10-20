@@ -36,7 +36,7 @@
   <img src='/Assets/normal/icons8-react-native-48.png' width='42px' height='42px' alt='react'/>
   <img src='/Assets/normal/icons8-html-5-48.png' width='42px' height='42px' alt='html'/>
   <img src='/Assets/normal/icons8-css3-48.png' width='42px' height='42px' alt='css3'/>
-  <img src='/Assets/normal/icons8-dart-48.png' width='42px' height='42px'/>
+  <img src='/Assets/normal/icons8-dart-48.png' width='42px' height='42px' alt='dart'/>
   <img src='/Assets/normal/icons8-xml-64.png' width='42px' height='42px'/>
   <img src='/Assets/normal/icons8-java-64.png' width='42px' height='42px'/>
   <img src='/Assets/normal/icons8-c-programming-48.png' width='42px' height='42px'/>
