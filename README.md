@@ -38,7 +38,7 @@
   <img src='/Assets/normal/icons8-css3-48.png' width='42px' height='42px' alt='css3'/>
   <img src='/Assets/normal/icons8-dart-48.png' width='42px' height='42px' alt='dart'/>
   <img src='/Assets/normal/icons8-xml-64.png' width='42px' height='42px' alt='xml'/>
-  <img src='/Assets/normal/icons8-java-64.png' width='42px' height='42px'/>
+  <img src='/Assets/normal/icons8-java-64.png' width='42px' height='42px' alt='java'/>
   <img src='/Assets/normal/icons8-c-programming-48.png' width='42px' height='42px'/>
 </p>
 
