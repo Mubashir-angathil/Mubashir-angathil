@@ -38,7 +38,7 @@
   <img src='/Assets/normal/icons8-css3-48.png' width='42px' height='42px' alt='css3'/>
   <img src='/Assets/normal/icons8-dart-48.png' width='42px' height='42px' alt='dart'/>
   <img src='/Assets/normal/icons8-xml-64.png' width='42px' height='42px' alt='xml'/>
-  <img src='/Assets/normal/icons8-java-64.png' width='42px' height='42px' alt='java'/>
+  <img src='/Assets/normal/icons8-java-64.png' width='42px' height='42px' alt='java programming'/>
   <img src='/Assets/normal/icons8-c-programming-48.png' width='42px' height='42px' alt='C programming'/>
 </p>
 
@@ -64,7 +64,7 @@
 <!--Section 8 -->
 <h2 align='center'>Tools&Others</h2>
 <p align='center'>
-  <img src='/Assets/normal/postman.png' width='42px' height='42px'/>
+  <img src='/Assets/normal/postman.png' width='42px' height='42px' alt='postman'/>
   <img src='/Assets/normal/icons8-handlebar-mustache-60.png' width='42px' height='42px'/>
   <img src='/Assets/normal/flutter.png' width='40px' height='40px'/>
   <img src='/Assets/3d/android-logo.png' width='56px' height='46px'/>
