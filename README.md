@@ -45,7 +45,7 @@
 <!--Section 5 -->
 <h2 align='center'>Softwares</h2>
 <p align='center'>
-  <img src='/Assets/normal/icons8-visual-studio-code-2019-48.png' width='36px' height='36px'/>
+  <img src='/Assets/normal/icons8-visual-studio-code-2019-48.png' width='36px' height='36px' alt='vscode'/>
   <img src='/Assets/normal/icons8-git-48.png' width='42px' height='42px'/>
   <img src='/Assets/normal/icons8-android-studio-48.png' width='42px' height='42px'/>
   <img src='/Assets/normal/icons8-console-48.png' width='42px' height='42px'/>
