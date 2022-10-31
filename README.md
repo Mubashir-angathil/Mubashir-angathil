@@ -65,7 +65,7 @@
 <h2 align='center'>Tools&Others</h2>
 <p align='center'>
   <img src='/Assets/normal/postman.png' width='42px' height='42px' alt='postman'/>
-  <img src='/Assets/normal/icons8-handlebar-mustache-60.png' width='42px' height='42px'/>
+  <img src='/Assets/normal/icons8-handlebar-mustache-60.png' width='42px' height='42px' alt='handlebar'/>
   <img src='/Assets/normal/flutter.png' width='40px' height='40px' alt='flutter'/>
   <img src='/Assets/3d/android-logo.png' width='56px' height='46px' alt='Android'/>
 </p>
