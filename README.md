@@ -48,7 +48,7 @@
   <img src='/Assets/normal/icons8-visual-studio-code-2019-48.png' width='36px' height='36px' alt='vscode'/>
   <img src='/Assets/normal/icons8-git-48.png' width='42px' height='42px' alt='Git'/>
   <img src='/Assets/normal/icons8-android-studio-48.png' width='42px' height='42px' alt='android studio'/>
-  <img src='/Assets/normal/icons8-console-48.png' width='42px' height='42px'/>
+  <img src='/Assets/normal/icons8-console-48.png' width='42px' height='42px' alt='terminal'/>
   <img src='/Assets/normal/icons8-github-48.png' width='42px' height='42px'/>
 </p>
 <!--Section 6 -->
