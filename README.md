@@ -25,7 +25,7 @@
 
 <img align='right' width='360' alt='top used languages' src="https://github-readme-stats.vercel.app/api/top-langs/?username=MubashirAngathil&langs_count=8&count_private=true&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Languages" />
 
-<img width='430' src="https://github-readme-stats.vercel.app/api?username=MubashirAngathil&show_icons=true&theme=chartreuse-dark&background=000000&hide_border=true&count_private=true">
+<img width='430' src="https://github-readme-stats.vercel.app/api?username=MubashirAngathil&show_icons=true&theme=chartreuse-dark&background=000000&hide_border=true&count_private=true" alt='chart'>
 
 <!--Section 4 -->
 <h2 align='center'>Languages</h2>
