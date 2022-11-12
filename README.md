@@ -59,7 +59,7 @@
   <img src='/Assets/normal/icons8-mongodb-48.png' width='42px' height='42px' alt='mongodb'/>
   <img src='/Assets/normal/icons8-firebase-48.png' width='42px' height='42px' alt='firebase'/>
   <img src='/Assets/normal/icons8-mysql-logo-48.png' width='42px' height='42px' alt='mysql'/>
-  <img src='/Assets/3d/icons8-microsoft-sql-server-96.png' width='42px' height='42px'/>
+  <img src='/Assets/3d/icons8-microsoft-sql-server-96.png' width='42px' height='42px' alt='MSQL'/>
 </p>
 <!--Section 8 -->
 <h2 align='center'>Tools&Others</h2>
