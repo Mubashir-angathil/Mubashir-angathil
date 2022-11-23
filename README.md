@@ -76,6 +76,3 @@
 <img  src="https://activity-graph.herokuapp.com/graph?username=MubashirAngathil&theme=react-dark&hide_border=true" alt="Mr" /> 
 
 <!-- # Profile under updating.................. -->
-
-<a href=""><img alt="Samad's Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MubashirAngathil&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
