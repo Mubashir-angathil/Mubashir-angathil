@@ -14,7 +14,7 @@
   <img src='/Assets/animation/whatsapp (1).gif' width='64px' height='64px' alt='whatsapp'/>
   <a href='https://github.com/MubashirAngathil' target='_blank'><img src='/Assets/normal/icons8-github-64.png' width='50px' height='50px' alt='github pic'/></a>
   <a href='https://gitlab.com/MubashirAngathil' target='_blank'><img src='/Assets/normal/icons8-gitlab-48.png' width='50px' height='50=px' alt='gitlab'/></a>
-  <a href='https://dev.to/mubashirangathil' target='_blank'><img src='/Assets/3d/dev.png' width='50px' height='50px' alt='dev'/></a>
+  <a href='https://dev.to/mubashirangathil' target='_blank'><img src='/Assets/3d/dev.png' width='40px' height='40px' alt='dev'/></a>
  <a href="https://www.hackerrank.com/mubashirangathi1"><img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="50px" height="50px" /></a>
  <a href="https://www.sololearn.com/profile/27634756"><img src='https://cdn.worldvectorlogo.com/logos/sololearn-2.svg' width='40px' height='40px' alt='sololearn'/></a>
   <a href='mailto: mubashirangathil5142@gmail.com'> <img src='/Assets/normal/icons8-gmail-48.png' width='50px' height='50px' alt='gmail'/></a>
