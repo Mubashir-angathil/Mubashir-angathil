@@ -74,6 +74,6 @@
 </p>
 
 
-<img  src="https://activity-graph.herokuapp.com/graph?username=MubashirAngathil&theme=react-dark&hide_border=true" alt="Mr" /> 
+<img  src="https://activity-graph.herokuapp.com/graph?username=MubashirAngathil&theme=react-dark&hide_border=true" alt="Graph" /> 
 
 <!-- # Profile under updating.................. -->
