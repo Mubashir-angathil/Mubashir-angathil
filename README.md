@@ -73,5 +73,3 @@
   <img src='/Assets/3d/android-logo.png' width='56px' height='46px' alt='Android'/>
 </p>
 
-
-<!-- <img  src="https://activity-graph.herokuapp.com/graph?username=MubashirAngathil&theme=react-dark&hide_border=true" alt="Graph" />   -->
