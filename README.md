@@ -3,7 +3,7 @@
 <!-- <img src='./Assets/happy-hacker.gif' width='400' align='right' alt='Hacker Image'/> -->
 <h1 align='center'> Welcome to Mubashir's Profile</h1>
 <img src="https://github.com/MubashirAngathil/typing-intro/blob/main/chat.svg" width="500"  align='left' alt='chating animation'> 
- <img src='https://komarev.com/ghpvc/?username=MubashirAngathil'  align='right' alt='User Name'/>
+ <img src='https://komarev.com/ghpvc/?username=MubashirAngathil'  align='right' alt='Username'/>
 
 <!--Section 2  -->
 <h2 align='center'>To Find Out Me</h2>
