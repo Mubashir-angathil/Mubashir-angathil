@@ -23,12 +23,12 @@
 
 <!-- section 3  -->
  <h2>Synopsis of Activites</h2> 
-<img width='1000' height='160'  src="https://github-readme-streak-stats.herokuapp.com?user=MubashirAngathil&count_private=true&show_icons=true&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=000000&stroke=045E61&ring=18CABF&fire=07DDD6&currStreakNum=FFFFFF&currStreakLabel=00DDD5&border=FFFFF&dates=0CAB31&hide_border=true" alt='streek status'>
+<img width='1000' height='160'  src="https://github-readme-streak-stats.herokuapp.com?user=mubashir-angathil&count_private=true&show_icons=true&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=000000&stroke=045E61&ring=18CABF&fire=07DDD6&currStreakNum=FFFFFF&currStreakLabel=00DDD5&border=FFFFF&dates=0CAB31&hide_border=true" alt='streek status'>
 
 <a href='https://github.com/MubashirAngathil'>
-<img align='right' width'360' alt='top languages' src="https://github-readme-stats.vercel.app/api/top-langs/?username=MubashirAngathil&langs_count=8&count_private=false&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117"/></a>
+<img align='right' width'360' alt='top languages' src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubashir-angathil&langs_count=8&count_private=false&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117"/></a>
 
-<img width='430' src="https://github-readme-stats.vercel.app/api?username=MubashirAngathil&show_icons=true&theme=chartreuse-dark&background=000000&hide_border=true&count_private=true" alt='chart'>
+<img width='430' src="https://github-readme-stats.vercel.app/api?username=mubashir-angathil&show_icons=true&theme=chartreuse-dark&background=000000&hide_border=true&count_private=true" alt='chart'>
 
 <!--Section 4 -->
 <h2 align='center'>Languages</h2>
