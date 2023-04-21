@@ -1,5 +1,5 @@
 <!--Section 1  -->
-<img src='./Assets/hacker-thinking-about-code.gif' width='300' align='right' alt='coding image..>'/> 
+<img src='./Assets/hacker-thinking-about-code.gif' width='300' align='right' alt='coding image.>'/> 
 <!-- <img src='./Assets/happy-hacker.gif' width='400' align='right' alt='Hacker Image'/> -->
 <h1 align='center'> Welcome to Mubashir's Profile</h1>
 <img src="https://github.com/MubashirAngathil/typing-intro/blob/main/chat.svg" width="500"  align='left' alt='typing intro..'> 
