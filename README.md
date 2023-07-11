@@ -28,7 +28,8 @@
 <a href='https://github.com/mubashir-angathil'>
 <img align='right' width'360' alt='top languages' src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubashir-angathil&langs_count=8&count_private=true&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117"/></a>
 
-<img width='430' src="https://github-readme-stats.vercel.app/api?username=mubashir-angathil&show_icons=true&theme=chartreuse-dark&background=000000&hide_border=true&count_private=true" alt='chart'>
+<img width='430' src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mubashir-angathil&show_icons=true&theme=chartreuse-dark&background=000000&hide_border=true&count_private=true" alt='chart'>
+
 
 <!--Section 4 -->
 <h2 align='center'>Languages</h2>
