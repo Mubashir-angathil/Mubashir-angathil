@@ -78,9 +78,9 @@
 <p align="center">
   <img width="625em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mubashir-angathil&theme=github_dark" />
 </p>
-<p align="center">
+<!-- <p align="center">
   <img width="625em" src="https://metrics.lecoq.io/larrymahumot" />
-</p>
+</p> -->
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{mubashir-angahtil}/count.svg" /></p> 
