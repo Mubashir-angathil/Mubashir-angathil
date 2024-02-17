@@ -81,12 +81,12 @@
 <!-- <p align="center">
   <img width="625em" src="https://metrics.lecoq.io/larrymahumot" />
 </p> -->
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<!-- <div align="center"> -->
+<!-- <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{mubashir-angahtil}/count.svg" /></p> 
 </div>
 <div align="center">
     <h4 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h4>
-</div>
+</div> -->
 
 <!-- <img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=mubashir-angathil&theme=react-dark&hide_border=true" /> -->
